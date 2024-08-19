@@ -65,3 +65,20 @@ h3{
     font-size: 2opx;
     text-decoration: none;
 }
+.intro{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #03396b;
+}
+.restaurant{
+   
+    margin-top: 20px;
+    margin-left: 390px;
+    margin-right: 20px;
+    
+}
